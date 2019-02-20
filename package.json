@@ -1,0 +1,14 @@
+{
+  "name": "blog-application",
+  "version": "1.0.0",
+  "description": "A REST api for blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varun Dhariyal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
